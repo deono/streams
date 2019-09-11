@@ -25,7 +25,7 @@ class GoogleAuth extends React.Component {
   // HELPER METHODS
   onAuthChange = isSignedIn => {
     if (isSignedIn) {
-      this.props.signIn(this.this.auth.currentuser.get().getId());
+      this.props.signIn(this.auth.currentUser.get().getId());
     } else {
       this.props.signOut();
     }
