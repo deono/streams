@@ -4,7 +4,7 @@
   "description": "JSON Server",
   "main": "index.js",
   "scripts": {
-    "start": "json-sever -p 3001 -w db.json"
+    "start": "json-server -p 3001 -w db.json"
   },
   "author": "Deon Odendaal",
   "license": "ISC",
