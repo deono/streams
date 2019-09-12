@@ -9,6 +9,18 @@
       "title": "OtherStream",
       "description": "Pretty good stream",
       "id": 2
+    },
+    {
+      "title": "Boss Stream",
+      "description": "A stream that is boss, mkay",
+      "userId": "104122617313260942502",
+      "id": 3
+    },
+    {
+      "title": "Kontiki stream",
+      "description": "I'm on a boat!",
+      "userId": "112133312333985022721",
+      "id": 4
     }
   ]
 }
