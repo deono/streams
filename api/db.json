@@ -12,20 +12,19 @@
     },
     {
       "title": "Boss Stream",
-      "description": "A stream that is boss, mkay",
+      "description": "The boss stream was changed by a PATCH request",
       "userId": "104122617313260942502",
       "id": 3
     },
     {
       "title": "Kontiki stream",
-      "description": "I'm on a boat!",
+      "description": "Blah blah blah streams",
       "userId": "112133312333985022721",
       "id": 4
     },
     {
       "title": "Streamy stream",
-      "description": "Stream stream stream, stream",
-      "userId": "104122617313260942502",
+      "description": "A streamy stream about streams",
       "id": 5
     },
     {
